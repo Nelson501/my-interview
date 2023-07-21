@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 200px;
+}
+
+
+h1{
+    color:red;
+}
+
+
+
+.photo-container{
+    margin-top: 10px;
+}
+
+.card{
+    margin-left: 45px;
+}
+
+.skills{
+    line-height: 20px;
+}
